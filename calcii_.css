@@ -36,6 +36,8 @@ input{
     border-top-right-radius: 20%;
     border-bottom-left-radius: 15%;
     border-bottom-right-radius: 15%;
+    border: width 10px; 
+    border-color: #FF6600;
 }
 .button{
     height: 80px;
@@ -75,3 +77,4 @@ input{
     font-size: bold larger;
     
 }
+
